@@ -1,0 +1,22 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Create automatic Videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonylds1/video-maker.git"
+  },
+  "author": "Tony Moraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonylds1/video-maker/issues"
+  },
+  "homepage": "https://github.com/tonylds1/video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
